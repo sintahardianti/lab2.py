@@ -4,12 +4,10 @@ NIM : 312210342
 
 Kelas : TI.22.A3
 
-##Praktikum2
+# Praktikum2
 
-##Latihan 1
+## Latihan 1
 
-Syntax Dasar
+### Syntax Dasar
 
 Dibawah ini adalah contoh fungsi Python yang digunakan untuk mencetak. 
-
-Di Python untuk mencetak cukup gunakan fungsi print("")
