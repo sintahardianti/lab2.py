@@ -4,9 +4,9 @@ NIM : 312210342
 
 Kelas : TI.22.A3
 
-Praktikum2 Fardhilan Galang Priarto
+##Praktikum2
 
-Latihan 1
+##Latihan 1
 
 Syntax Dasar
 
