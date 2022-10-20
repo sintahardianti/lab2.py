@@ -20,7 +20,8 @@ Saya juga menuliskan nama saya sebagai tambahan. Di bawah ini hasilnya :
 
 ### • Mendefinisikan variable 
 
-```a = 8
+```
+a = 8
 
 b = 6
 ```
@@ -47,7 +48,8 @@ print("variabel b=",b)
 
 ### • Penggunaan IDLE python untuk menginput nilai variabel dengan cara
 
-```a=input("masukkan nilai a:")
+```
+a=input("masukkan nilai a:")
 
 b=input("masukkan nilai b:")
 ```
@@ -55,7 +57,8 @@ b=input("masukkan nilai b:")
 
 ### • Penggunaan IDLE python untuk mencetak nilai kedua variabel dengan cara
 
-```print("Variabel a=",a)
+```
+print("Variabel a=",a)
 
 print("Variabel b=",b)
 ```
@@ -69,7 +72,8 @@ print("Variabel b=",b)
 
 ### • mengkonversi nilai kedua variabel dengan
 
-```a=int(a)
+```
+a=int(a)
 
 b=int(b)
 
