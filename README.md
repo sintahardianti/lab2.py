@@ -38,3 +38,43 @@ print("variabel b=",b)
 print("hasil penjumlahan a+b=",a+b)
 
 ![Screenshot (208)](https://user-images.githubusercontent.com/115516473/196894284-0bad6cdd-32a8-4700-80e1-5e009c279c20.png)
+
+## Latihan 3 (Menjalankan IDLE)
+
+### Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard
+
+### • Penggunaan IDLE python untuk menginput nilai variabel dengan cara
+
+a=input("masukkan nilai a:")
+
+b=input("masukkan nilai b:")
+
+
+
+### • Penggunaan IDLE python untuk mencetak nilai kedua variabel dengan cara
+
+print("Variabel a=",a)
+
+print("Variabel b=",b)
+
+
+
+### • Penggabungan nilai kedua variabel dengan cara String Format
+
+print("Hasil Penggabungan {1}+{0}=%s".format(a,b) %(a+b))
+
+
+
+### • mengkonversi nilai kedua variabel dengan
+
+a=int(a)
+
+b=int(b)
+
+print("Hasil Penjumlahan {1}+{0}=%d").format(a,b) %(a+b))
+
+print("Hasil Pembagian {1}+{0}=%d").format(a,b) %(a/b))
+
+![Screenshot (210)](https://user-images.githubusercontent.com/115516473/196899138-8d6690f1-3d22-4888-8bae-f7cda55eaf4e.png)
+
+![Screenshot (212)](https://user-images.githubusercontent.com/115516473/196899703-1ec6cffb-cde1-4403-abb5-3c7705022e7b.png)
