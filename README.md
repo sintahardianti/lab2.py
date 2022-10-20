@@ -20,9 +20,10 @@ Saya juga menuliskan nama saya sebagai tambahan. Di bawah ini hasilnya :
 
 ### • Mendefinisikan variable 
 
-a = 8
+```a = 8
 
 b = 6
+```
 
 ### • Mencetak nilai variable a dan b  
 
